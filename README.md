@@ -34,6 +34,8 @@ You can download and use inputWordList.txt for demo.
 
 **Example Usage --> ./md5HashCracker.ps1 -crackType single -Wordlist C:\Users\decoder\Desktop\inputWordList.txt -inputArgument 900150983cd24fb0d6963f7d28e17f72**
 
+Demo screenshot: ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/blob/master/single.png)
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **3) ./md5HashCracker.ps1 -crackType plural -Wordlist <path of wordlist file> -inputArgument <path of hashlist>**
@@ -49,6 +51,8 @@ User should use this command if he/she has more than 1 hashes  to crack.
 You can download and use inputWordList.txt and inputHashList.txt for demo.
 
 **Example Usage --> ./md5HashCracker.ps1 -crackType plural -Wordlist C:\Users\decoder\Desktop\inputWordList.txt -inputArgument C:\Users\decoder\Desktop\inputHashList.txt**
+
+Demo screenshot: ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/blob/master/plural.png)
 
 ----------------------------------------------------------------------------------------------------------------------
 
