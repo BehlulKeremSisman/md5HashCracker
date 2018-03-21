@@ -19,11 +19,11 @@ Example Usage --> .\md5HashCracker.ps1 -help h
 
 User should use this command if he/she has just 1 hash to crack.
 
--crackType argument will be 'single'
+[-crackType] argument will be 'single'
 
--Wordlist argument will be the path of wordlist.txt that contains words.
+[-Wordlist] argument will be the path of wordlist.txt that contains words.
 
--inputArgument argument will be that hash.
+[-inputArgument] argument will be that hash.
 
 You can download and use inputWordList.txt for demo.
 
@@ -35,11 +35,11 @@ Example Usage --> .\md5HashCracker.ps1 -crackType single -Wordlist C:\Users\deco
 
 User should use this command if he/she has more than 1 hashes  to crack.
 
--crackType argument will be 'plural'
+[-crackType] argument will be 'plural'
 
--Wordlist argument will be the path of wordlist.txt that contains words.
+[-Wordlist] argument will be the path of wordlist.txt that contains words.
 
--inputArgument argument will be the path of hashlist.txt that contains hashes that he/she wants to crack.
+[-inputArgument] argument will be the path of hashlist.txt that contains hashes that he/she wants to crack.
 
 You can download and use inputWordList.txt and inputHashList.txt for demo.
 
