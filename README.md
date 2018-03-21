@@ -11,7 +11,7 @@ You can crack the 32 char md5 hashes with this program. Please follow the instru
 User can use this command to get informations about how to use. This command will show you parameters and some
 usage examples.
 
-**Example Usage --> .\md5HashCracker.ps1 -help h**
+**Example Usage --> ./md5HashCracker.ps1 -help h**
 
 ----------------------------------------------------------------------------------------------------------------------
 
