@@ -6,6 +6,10 @@ You can crack the 32 char md5 hashes with this program. Please follow the instru
 
 Program will produce you a 'Report.txt' report file. And you will see the results from powershell terminal too.
 
+**How it works ? (Algorithm):** Input hash will be compared to each word's md5 hash. If they matches the word will
+be the answer for crack. If not that means crack could not be done. Input md5 hash should be 32 characters. So there is
+a control about length of it.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **1) ./md5HashCracker.ps1 -help h**
