@@ -15,7 +15,7 @@ usage examples.
 
 **Example Usage --> ./md5HashCracker.ps1 -help h**
 
-Demo screenshot --> ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/md5HashCracker/help.png)
+Demo screenshot --> ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/master/help.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------
