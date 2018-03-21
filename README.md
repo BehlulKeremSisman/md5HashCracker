@@ -4,6 +4,8 @@
 
 You can crack the 32 char md5 hashes with this program. Please follow the instructions to use the program.
 
+Program will produce you a 'Report.txt' report file. And you will see the results from powershell terminal too.
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **1) ./md5HashCracker.ps1 -help h**
@@ -46,4 +48,5 @@ You can download and use inputWordList.txt and inputHashList.txt for demo.
 **Example Usage --> ./md5HashCracker.ps1 -crackType plural -Wordlist C:\Users\decoder\Desktop\inputWordList.txt -inputArgument C:\Users\decoder\Desktop\inputHashList.txt**
 
 ----------------------------------------------------------------------------------------------------------------------
+
 
