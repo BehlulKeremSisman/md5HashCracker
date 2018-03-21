@@ -15,6 +15,9 @@ usage examples.
 
 **Example Usage --> ./md5HashCracker.ps1 -help h**
 
+You can check the image for demo screenshot --> ![alt text (https://github.com/BehlulKeremSisman/md5HashCracker/md5HashCracker/help.png)
+
+
 ----------------------------------------------------------------------------------------------------------------------
 
 **2) ./md5HashCracker.ps1 -crackType single -Wordlist <path of wordlist file> -inputArgument <hash>**
