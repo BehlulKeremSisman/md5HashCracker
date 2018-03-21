@@ -1,4 +1,6 @@
-----------------------------------------      Welcome to Md5 Hash Cracker     ----------------------------------------
+                                          Welcome to Md5 Hash Cracker     
+                                          
+----------------------------------------------------------------------------------------------------------------------
 
 You can crack the 32 char md5 hashes with this program. Please follow the instructions to use the program.
 
