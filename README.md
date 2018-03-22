@@ -18,7 +18,7 @@ usage examples.
 
 **Example Usage --> ./md5HashCracker.ps1 -help h**
 
-Demo screenshot: ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/demoScreenShots/blob/master/help.png)
+Demo screenshot: ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/blob/master/demoScreenShots/help.png)
 
 
 ----------------------------------------------------------------------------------------------------------------------
@@ -37,7 +37,7 @@ You can download and use inputWordList.txt for demo.
 
 **Example Usage --> ./md5HashCracker.ps1 -crackType single -Wordlist C:\Users\decoder\Desktop\inputWordList.txt -inputArgument 900150983cd24fb0d6963f7d28e17f72**
 
-Demo screenshot: ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/demoScreenShots/blob/master/single.png)
+Demo screenshot: ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/blob/master/demoScreenShots/single.png)
 
 ----------------------------------------------------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ You can download and use inputWordList.txt and inputHashList.txt for demo.
 
 **Example Usage --> ./md5HashCracker.ps1 -crackType plural -Wordlist C:\Users\decoder\Desktop\inputWordList.txt -inputArgument C:\Users\decoder\Desktop\inputHashList.txt**
 
-Demo screenshot: ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/demoScreenShots/blob/master/plural.png)
+Demo screenshot: ![alt text](https://github.com/BehlulKeremSisman/md5HashCracker/blob/master/demoScreenShots/plural.png)
 
 ----------------------------------------------------------------------------------------------------------------------
 
