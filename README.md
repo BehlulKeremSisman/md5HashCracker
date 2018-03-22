@@ -8,6 +8,8 @@ You can crack the 32 char md5 hashes with this program. Please follow the instru
 
 All the informations and errors are given as a output. Also the program's execution time is produced as a duration time at the end of the output. 
 
+You can download crackstation-human-only.txt from --> https://drive.google.com/open?id=10nF6ua7A1OKyRLWdD4UWIzt2br_wRrKs
+
 Program will produce you a 'Report.txt' report file and you will see the results from powershell terminal too.
 
 There are 3 types of usage. You can check them below:
