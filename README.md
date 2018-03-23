@@ -12,6 +12,17 @@ You can download crackstation-human-only.txt that contains nearly all words from
 
 Program will produce you a 'Report.txt' report file and you will see the results from powershell terminal too.
 
+You can test these 10 hashes for demo --> 900150983cd24fb0d6963f7d28e17f72
+                                          4c36fa32c9d93a002c3e14ce038aa709
+                                          e2fc714c4727ee9395f324cd2e7f331f
+                                          e10adc3949ba59abbe56e057f20f883e
+                                          e99a18c428cb38d5f260853678922e03
+                                          0659c7992e268962384eb17fafe88364
+                                          7bc6c31880aeda581aa34e218af25753
+                                          3c086f596b4aee58e1d71b3626fefc87
+                                          e86fdc2283aff4717103f2d44d0610f7
+                                          200820e3227815ed1756a6b531e7e0d2
+
 There are 3 types of usage. You can check them below:
 
 ----------------------------------------------------------------------------------------------------------------------
