@@ -4,6 +4,8 @@
 
 You can crack the 32 char md5 hashes with this program. Please follow the instructions to use the program and see the details.
 
+To run this program you need to solve execution-policy problem on your system.
+
 **How it works ? (Algorithm):** Input hash -you can give as an argument or make read from file- will be compared to each word's md5 hash. These words are in the inputWordList.txt file. You can extend or edit this file as you want. I only put 10 words on it for demo. I also added crackstation-human-only.txt file. You can use this file for wordlist file. This file's crack rate will be about %99.9 but it contains all human passwords, so your program execution time can takes like 1 hour for it. It's size about 700 MB. Or you can just use inputWordList.txt file for quick demo. If input hash and word's hash matches the word will be the answer for crack. If not that means crack could not be done. Input md5 hash should be 32 characters. So there is a control about length of it. 
 
 All the informations and errors are given as a output. Also the program's execution time is produced as a duration time at the end of the output. 
